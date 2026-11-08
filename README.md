@@ -12,8 +12,6 @@ I enjoy creating projects, experimenting with new technologies and improving my 
 
 ### Stack
 
-**Languages**
-
 `Python` `JavaScript` `HTML` `CSS` `Node.js` 
 
 
