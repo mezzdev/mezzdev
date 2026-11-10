@@ -12,7 +12,7 @@ I enjoy creating projects, experimenting with new technologies and improving my 
 
 ### Stack
 
-`Python` `JavaScript` `HTML` `CSS` `Node.js` 
+`Python` `JavaScript` `HTML` `CSS` `Node.js` `Rust` 
 
 
 ### GitHub Statistics
