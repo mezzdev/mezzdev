@@ -6,7 +6,7 @@
 
 ### About me
 
-Hi, I'm **Mezz**, a web developer
+Hi, I'm **Mezz**, a web developer and a programmer
 
 I enjoy creating projects, experimenting with new technologies and improving my skills through hands-on development.
 
